@@ -1,6 +1,14 @@
 # torch_app
 
-A new Flutter project.
+A new Flutter torch App project.
+
+
+## Screenshot 1   (Before Turn on)
+<img src='https://github.com/surajgujarathi/torch_app/blob/main/assets/torch1.png' height=400/> 
+
+
+## Screenshot 2   (After Turn on)
+<img src='https://github.com/surajgujarathi/torch_app/blob/main/assets/torch2.png' height=400/>
 
 ## Getting Started
 
